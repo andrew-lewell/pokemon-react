@@ -1,0 +1,196 @@
+{
+  "pokemons": [
+    {
+      "id": 44,
+      "nickname": "Elva",
+      "species": "Charmeleon",
+      "trainerId": 1
+    },
+    {
+      "id": 45,
+      "nickname": "Linwood",
+      "species": "Zapdos",
+      "trainerId": 1
+    },
+    {
+      "id": 46,
+      "nickname": "Eldora",
+      "species": "Kabutops",
+      "trainerId": 1
+    },
+    {
+      "id": 47,
+      "nickname": "Ayden",
+      "species": "Seel",
+      "trainerId": 1
+    },
+    {
+      "id": 48,
+      "nickname": "Mittie",
+      "species": "Sandshrew",
+      "trainerId": 1
+    },
+    {
+      "id": 7,
+      "nickname": "Solon",
+      "species": "Zapdos",
+      "trainerId": 2
+    },
+    {
+      "id": 30,
+      "nickname": "Lelia",
+      "species": "Jolteon",
+      "trainerId": 2
+    },
+    {
+      "id": 31,
+      "nickname": "Hubert",
+      "species": "Diglett",
+      "trainerId": 2
+    },
+    {
+      "id": 32,
+      "nickname": "Alvah",
+      "species": "Dugtrio",
+      "trainerId": 2
+    },
+    {
+      "id": 50,
+      "nickname": "David",
+      "species": "Squirtle",
+      "trainerId": 2
+    },
+    {
+      "id": 51,
+      "nickname": "Herminia",
+      "species": "Marowak",
+      "trainerId": 2
+    },
+    {
+      "id": 9,
+      "nickname": "Jettie",
+      "species": "Venusaur",
+      "trainerId": 3
+    },
+    {
+      "id": 10,
+      "nickname": "Randy",
+      "species": "Haunter",
+      "trainerId": 3
+    },
+    {
+      "id": 11,
+      "nickname": "Joseph",
+      "species": "Vileplume",
+      "trainerId": 3
+    },
+    {
+      "id": 12,
+      "nickname": "Tracey",
+      "species": "Rhydon",
+      "trainerId": 4
+    },
+    {
+      "id": 13,
+      "nickname": "Christopher",
+      "species": "Poliwag",
+      "trainerId": 4
+    },
+    {
+      "id": 14,
+      "nickname": "Alivia",
+      "species": "Poliwag",
+      "trainerId": 4
+    },
+    {
+      "id": 15,
+      "nickname": "Simeon",
+      "species": "Vileplume",
+      "trainerId": 4
+    },
+    {
+      "id": 33,
+      "nickname": "Tiara",
+      "species": "Jolteon",
+      "trainerId": 4
+    },
+    {
+      "id": 34,
+      "nickname": "Ibrahim",
+      "species": "Nidoran",
+      "trainerId": 4
+    },
+    {
+      "id": 16,
+      "nickname": "Shanon",
+      "species": "Ditto",
+      "trainerId": 5
+    },
+    {
+      "id": 17,
+      "nickname": "Harvey",
+      "species": "Slowbro",
+      "trainerId": 5
+    },
+    {
+      "id": 18,
+      "nickname": "Julia",
+      "species": "Poliwhirl",
+      "trainerId": 6
+    },
+    {
+      "id": 19,
+      "nickname": "Zoe",
+      "species": "Rhydon",
+      "trainerId": 6
+    },
+    {
+      "id": 20,
+      "nickname": "Luis",
+      "species": "Abra",
+      "trainerId": 6
+    },
+    {
+      "id": 21,
+      "nickname": "Devon",
+      "species": "Tentacruel",
+      "trainerId": 6
+    },
+    {
+      "id": 28,
+      "nickname": "Delaney",
+      "species": "Staryu",
+      "trainerId": 8
+    }
+  ],
+  "trainers": [
+    {
+      "id": 1,
+      "name": "Prince"
+    },
+    {
+      "id": 2,
+      "name": "Dick"
+    },
+    {
+      "id": 3,
+      "name": "Garry"
+    },
+    {
+      "id": 4,
+      "name": "Jason"
+    },
+    {
+      "id": 5,
+      "name": "Matt"
+    },
+    {
+      "id": 6,
+      "name": "Noah"
+    },
+    {
+      "id": 8,
+      "name": "Arthur"
+    }
+  ]
+}
